@@ -52,7 +52,8 @@ function CreateAndActivateCondaEnv {
         Write-Host "Creating Conda environment: $envName"
         & conda env create -f $envFilePath -ErrorAction Stop
     } else {
-        Write-Host "Conda environment '$envName' already exists."
+        Write-Host "Conda environment '$envName' already exists. Updating packages..."
+        & conda env update --file $envFilePath --prune
     }
 
     Write-Host "Activating Conda environment: $envName"
