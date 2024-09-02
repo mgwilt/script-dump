@@ -12,7 +12,7 @@
 1. **Prepare the `environment.yml` File**:
     Ensure that your `environment.yml` file is in the root directory of your project. An example `environment.yml` file might look like this:
     ```yaml
-    name: resumate-poc
+    name: MyEnvironment
     channels:
       - defaults
     dependencies:
