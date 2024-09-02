@@ -1,6 +1,6 @@
 ## Overview
 
-`activate.ps1` is a PowerShell script designed to automate the creation and activation of a Conda environment based on the `environment.yml` file. This script simplifies the process of setting up the required environment for your project.
+`Activate-CondaEnvironment.ps1` is a PowerShell script designed to automate the creation and activation of a Conda environment based on the `environment.yml` file. This script simplifies the process of setting up the required environment for your project.
 
 ## Prerequisites
 
