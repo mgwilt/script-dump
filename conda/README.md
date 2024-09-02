@@ -9,7 +9,7 @@
 
 ## Usage
 
-2. **Prepare the `environment.yml` File**:
+1. **Prepare the `environment.yml` File**:
     Ensure that your `environment.yml` file is in the root directory of your project. An example `environment.yml` file might look like this:
     ```yaml
     name: resumate-poc
@@ -22,7 +22,7 @@
         - streamlit
     ```
 
-3. **Run the Script**:
+2. **Run the Script**:
     Open PowerShell and navigate to the directory containing `Activate-CondaEnvironment.ps1`. Execute the script by running:
     ```powershell
     .\Activate-CondaEnvironment.ps1
