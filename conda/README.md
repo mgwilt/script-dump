@@ -23,9 +23,9 @@
     ```
 
 3. **Run the Script**:
-    Open PowerShell and navigate to the directory containing `activate.ps1`. Execute the script by running:
+    Open PowerShell and navigate to the directory containing `Activate-CondaEnvironment.ps1`. Execute the script by running:
     ```powershell
-    .\activate.ps1
+    .\Activate-CondaEnvironment.ps1
     ```
 
 ## Script Details
