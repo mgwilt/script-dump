@@ -9,12 +9,6 @@
 
 ## Usage
 
-1. **Clone the Repository**:
-    ```sh
-    git clone <your-repo-url>
-    cd <your-repo-directory>
-    ```
-
 2. **Prepare the `environment.yml` File**:
     Ensure that your `environment.yml` file is in the root directory of your project. An example `environment.yml` file might look like this:
     ```yaml
