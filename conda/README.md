@@ -41,7 +41,3 @@
 - The script checks if Conda is installed and available in the system PATH.
 - It verifies the existence of the `environment.yml` file.
 - It handles cases where the environment name is not found in the `environment.yml` file.
-
-## Example
-
-Here is an example of what the output might look like when running the script:
